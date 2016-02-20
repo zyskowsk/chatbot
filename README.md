@@ -9,5 +9,5 @@ pip install -r requirements.txt
 python app.py
 ```
 
-You can also play around with the app [here](http://rob-chatbot.herokuapp.com/) (chrome > 34.0).
+You can also play around with the app [here](http://rob-chatbot.herokuapp.com/) (chrome > 45.0).
 
